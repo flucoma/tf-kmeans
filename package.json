@@ -29,9 +29,9 @@
   "homepage": "https://github.com/pratikpc/tf-kmeans#readme",
   "devDependencies": {
     "typescript": "3.5.3",
-    "@tensorflow/tfjs": "latest"
+    "@tensorflow/tfjs": "3.16.0"
   },
   "peerDependencies": {
-    "@tensorflow/tfjs": "latest"
+    "@tensorflow/tfjs": "3.16.0"
   }
 }
