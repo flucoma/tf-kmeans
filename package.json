@@ -1,5 +1,5 @@
 {
-  "name": "tf-kmeans-flucoma",
+  "name": "@flucoma/tf-kmeans",
   "version": "0.0.3",
   "description": "A Library for Calculating K-Means using Tensorflow",
   "keywords": [
